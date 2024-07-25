@@ -1,0 +1,16 @@
+const CONFIG = {
+  introTitle: 'Bae à!',
+  introDesc: `Em có biết người ta hay gọi anh là gì không`,
+  btnIntro: '???',
+  title: 'Gọi anh là điệp viên 007',
+  desc: '0 lừa dối',
+  desc: '0 lòng vòng',
+  btnYes: 'Thế 7 gì ??',
+  btnNo: '0 có cơ hội đâu',
+  question: '7 GIỜ TỐI NAY VÔ MEET VỚI ANH NHA',
+  btnReply: 'Gửi em link đi ^^',
+  reply: 'EM ĐỒNG Ý',
+  mess: 'Oke nuônnnn',
+  messDesc: 'Hẹn cô nương vào tối nay nhé <3',
+  btnAccept: 'Hehee',
+}
